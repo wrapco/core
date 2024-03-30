@@ -1,4 +1,4 @@
-A custom module for [wrapco.com.au](https://wrapco.com.au) and [inkyco.com.au](https://inkyco.com.au)
+A custom module for [wrapco.com.au](https://wrapco.com.au) and [inkyco.com.au](https://inkyco.com.au)  (Magento 2).
 
 ## How to install
 ```
