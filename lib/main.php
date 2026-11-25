@@ -1,6 +1,6 @@
 <?php
 /**
- * 2018-12-02 Dmitry Fedyuk https://www.upwork.com/fl/mage2pro
+ * 2018-12-02 Dmitry Fedyuk https://github.com/dmitrii-fediuk
  * `array_column` does not work correctly on the wrapco.com.au and inkyco.com.au servers for an unknowm reason.
  * The servers use PHP 7.0.32: https://www.wrapco.com.au/i.php
  * My function solves the problems:
